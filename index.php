@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+	<title>TPQI - IC3 Developer</title>
 	<meta charset="utf-8">
 </head>
 </html>
